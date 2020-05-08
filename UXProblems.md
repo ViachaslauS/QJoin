@@ -8,3 +8,7 @@
 
 ### Пути улучшения
 Главным путем улучшения UX является улучшение пользовательского интерфейса для лучшего восприятия и понимания работы приложения.
+## До
+![Image alt](https://github.com/ViachaslauS/QJoin/blob/master/UX/image.png)
+## После
+![Image alt](https://github.com/ViachaslauS/QJoin/blob/master/UX/after.jpg)
