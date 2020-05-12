@@ -20,29 +20,29 @@
 ### Тип архитектуры приложения: клиент-сервер. В роли сервера выступает база данных, а логика приложения представлена процедурами
 ### хранения отправленных сообщений. 
 ## Обобщённое представление архитектуры
-![Image](https://github.com/Daniil-Lukashchik/Chat-program/blob/master/%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0.jpg)
+![Image](https://github.com/ViachaslauS/QJoin/blob/master/lab3/%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0.jpg)
 ## Диаграмма развёртывания
-![Image alt](https://github.com/Daniil-Lukashchik/Chat-program/blob/master/Deployment%20Diagram.png)
+![Image alt](https://github.com/ViachaslauS/QJoin/blob/master/lab3/Deployment%20Diagram.png)
 
 ## Архитектура "To be"
 
 ### 1. Диаграмма компонентов
-![Image alt](https://github.com/Daniil-Lukashchik/Chat-program/blob/master/Component%20Diagram.png)
+![Image alt](https://github.com/ViachaslauS/QJoin/blob/master/lab3/Component%20Diagram.png)
 ### 2. Диаграмма классов
-![Image alt](https://github.com/Daniil-Lukashchik/Chat-program/blob/master/Class%20Diagram.png)
+![Image alt](https://github.com/ViachaslauS/QJoin/blob/master/lab3/8GSP59HpwuE.jpg)
 
 ## Архитектура "As is"
 
 ### 1. Диаграмма компонентов
-![Image alt](https://github.com/Daniil-Lukashchik/Chat-program/blob/master/Component%20DiagramAuto.png)
+![Image alt](https://github.com/ViachaslauS/QJoin/blob/master/lab3/Component%20Diagram.png)
 ### 2. Диаграмма классов
-![Image alt](https://github.com/Daniil-Lukashchik/Chat-program/blob/master/Class%20DiagramAuto.png)
+![Image alt](https://github.com/ViachaslauS/QJoin/blob/master/lab3/8GSP59HpwuE.jpg)
 
 # ЧАСТЬ 3
 ### Модель AS-IS - это модель «как есть», т.е. модель уже существующего процесса/функции. 
 ### Найденные в модели AS-IS недостатки можно исправить при создании модели ТО-ВЕ, которая нужна для оценки последствий внедрения информационной системы и анализа альтернативных путей выполнения работы и документирования того, как система будет функционировать в будущем.
 
-## Для реализации лучшей функциональности приложения в дальнейшем понадобится улучшить систему авторизации и аутенцификации пользователя (хеширование), а также улучшить кэширование сообщений. Это обеспечит высокую эффективность и производительность приложения. 
+## Для реализации лучшей функциональности приложения в дальнейшем понадобится улучшить систему авторизации и аутенцификации пользователя, а также добавить возможность выхода из группы или очереди. Это обеспечит высокую эффективность и производительность приложения. 
 ## В связи с вышеперечисленными причинами мы будет улучшать архитектуру согласно следующим принципам: 
 ### Принцип единственности ответственности (Каждый программный объект имеет одно и только одно назначение); 
 ### Принцип DRY(Don't Repeat Yourself) - не повторяйся.
